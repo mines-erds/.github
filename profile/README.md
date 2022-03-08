@@ -2,14 +2,14 @@
 
 # "Earth Resource Data Science" graduate certificate at Colorado School of Mines.
 
-The Earth Resource Data Science graduate certificate at Colorado School of Mines consists of four courses (12 credit hours) that can also be included as coursework towards an M.S. or Ph.D. degree at Mines.
+Data science is a vitally important skill, particularly when paired with deep domain knowledge pertaining to Earth resource characterization, extraction, and sustainable development.
+
+The Earth Resource Data Science graduate certificate at Colorado School of Mines consists of four courses (12 credit hours) that can also be included as coursework towards an M.S. or Ph.D. degree at Mines. 
 
 This fully online program introduces the fundamentals of python data science as it pertains to characterization, extraction, and sustainable development of surface and subsurface Earth resources. This program will enable students to organize, analyze, and visualize earth-resource data as well as automate repetitive tasks, making them more efficient and innovative scientists. The program covers fundamental data science (no pre-requisities necessary!) and advanced topics like machine-learning and web-scraping. Fourteen elective choices offer flexibility, allowing students to customize the certificate towards their industry.
 
 ## Why you may want to enroll
 Digitalization has profoundly affected all facets of geoscience, including extractive industries (e..g, oil and gas, minerals, water resources), remote sensing of Earth change, environmental monitoring & remediation, and geological engineering. More data is available for detailed analysis to improve decision making and influence policy at all levels. Changing commodity prices have added to the need to improve the efficiency of operations in order to drive more effective and responsible development of Earth resources and to provide attractive investment returns for shareholders.
-
-Data science is a vitally important skill, particularly when paired with deep domain knowledge pertaining to Earth resource characterization, extraction, and sustainable development.
 
 ## Courses
 ### Mandatory courses (in this order):
@@ -20,6 +20,9 @@ Data science is a vitally important skill, particularly when paired with deep do
 
 ## Want to apply?
 [Click here to apply on the Mines website](https://online.mines.edu/earth-resources-online/)
+
+No GRE required! Just upload your transcripts and some other basic info. 
+
 Need a waiver for the application fee? Email zanejobe at mines dot edu to ask. 
 
 ## FAQ
