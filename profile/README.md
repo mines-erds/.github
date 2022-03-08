@@ -18,6 +18,10 @@ Data science is a vitally important skill, particularly when paired with deep do
 1. GEOL 558 	Earth Resource Data Science II – Applications and Machine-Learning
 1. Elective (see choices in the courses repo
 
+## Want to apply?
+[Click here to apply on the Mines website](https://online.mines.edu/earth-resources-online/)
+Need a waiver for the application fee? Email zanejobe at mines dot edu to ask. 
+
 ## FAQ
 - Are all the courses online, or are there in-person options?
   - All courses are online and 'asynchronous', meaning there is no official time that the class meets. In other words, there are no live lecture periods - all the work is done at your own pace. However, there are structured times for students to be able to interact with faculty “live” via office hours and other means (e.g., Slack, Zoom).
